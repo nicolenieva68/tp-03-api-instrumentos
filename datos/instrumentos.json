@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "nombre": "Guitarra clásica",
+    "familia": "Cuerda",
+    "origen": "España",
+    "descripcion": "Instrumento de seis cuerdas de nailon, utilizado principalmente en música clásica y flamenca.",
+    "disponible": true
+  },
+  {
+    "id": 2,
+    "nombre": "Charango",
+    "familia": "Cuerda",
+    "origen": "Bolivia",
+    "descripcion": "Pequeño instrumento de cuerda andino, tradicionalmente construido con caparazón de armadillo.",
+    "disponible": true
+  },
+  {
+    "id": 3,
+    "nombre": "Quena",
+    "familia": "Viento",
+    "origen": "Región andina",
+    "descripcion": "Flauta de caña sin boquilla, típica de la música andina.",
+    "disponible": false
+  },
+  {
+    "id": 4,
+    "nombre": "Bombo legüero",
+    "familia": "Percusión",
+    "origen": "Argentina",
+    "descripcion": "Tambor artesanal de gran tamaño, utilizado en el folclore del norte argentino.",
+    "disponible": true
+  },
+  {
+    "id": 5,
+    "nombre": "Saxofón alto",
+    "familia": "Viento",
+    "origen": "Bélgica",
+    "descripcion": "Instrumento de viento madera con boquilla de lengüeta simple, muy utilizado en jazz.",
+    "disponible": true
+  }
+]
